@@ -1,0 +1,23 @@
+{
+  "name": "consistent-hash-implementation",
+  "version": "1.0.0",
+  "description": "## Implementing Consistent Hash for distributed caching using c#",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patravishek/consistent-hash-implementation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patravishek/consistent-hash-implementation/issues"
+  },
+  "homepage": "https://github.com/patravishek/consistent-hash-implementation#readme",
+  "dependencies": {
+    "consistent-hashing": "^0.3.0"
+  }
+}
